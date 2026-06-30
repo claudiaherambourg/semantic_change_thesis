@@ -1,0 +1,9 @@
+Model,Word,Decade,Nearest neighbors
+SGNS,tuiles,1840,"recouvertes, percées, ardoises, taillées, plateaux"
+SGNS,tuiles,1860,"ardoises, façades, grimpantes, dômes, ardoise"
+SGNS,tuiles,1880,"ardoises, moussues, ifs, lierres, pampres"
+SGNS,tuiles,1900,"chaume, créneaux, géraniums, ardoises, ajoncs"
+PPMI/SVD,yeux,1840,"regards, paupières, fixes, bleus, fixaient"
+PPMI/SVD,yeux,1860,"regards, paupières, fixes, fixèrent, agrandis"
+PPMI/SVD,yeux,1880,"regards, bleus, paupières, cils, prunelles"
+PPMI/SVD,yeux,1900,"paupières, clairs, prunelles, regards, ses"

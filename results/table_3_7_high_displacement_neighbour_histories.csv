@@ -1,0 +1,9 @@
+Model,Word,Decade,Nearest neighbors
+SGNS,volant,1840,"rase, rance, aire, hirondelle, cognée"
+SGNS,volant,1860,"moineau, pigeon, serpe, moutarde, grenouille"
+SGNS,volant,1880,"hameçon, cerf, trapèze, coquille, cognée"
+SGNS,volant,1900,"cerf, gourde, tonneau, carnier, cornet"
+PPMI/SVD,assurant,1840,"rendît, cramponné, défende, efforça, chargerait"
+PPMI/SVD,assurant,1860,"refusa, refusera, refusant, feutre, repoussant"
+PPMI/SVD,assurant,1880,"cagnotte, rétabli, érudit, trouverait, reviendrait"
+PPMI/SVD,assurant,1900,"ceinturon, redressant, saluèrent, feutre, épée"
