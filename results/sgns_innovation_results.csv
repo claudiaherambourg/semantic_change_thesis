@@ -1,0 +1,2 @@
+model,n_rows,n_words,frequency_coefficient,frequency_pvalue,contextual_diversity_coefficient,contextual_diversity_pvalue
+SGNS_innovation_mixedlm_min500,13692,2651,-0.15189587677236638,1.39376858891778e-16,16.46540651684564,1.040902858867308e-48
