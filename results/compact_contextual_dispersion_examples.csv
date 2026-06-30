@@ -1,0 +1,11 @@
+word,decade,n_occurrences,mean_contextual_dispersion,nearest_centroid_neighbours
+mesure,1840,1581,0.1910553872585296,"peine, mesurer, proportion, merveille, ravi, but, puissance, apporte"
+mesure,1860,1632,0.2027505934238433,"peine, mesurer, merveille, but, diminuer, puissance, ravi, apporter"
+mesure,1880,2195,0.210645779967308,"peine, proportion, mesurer, merveille, but, diminuer, ravi, puissance"
+mesure,1900,1034,0.2079166620969772,"peine, mesurer, merveille, but, souhaite, quantité, souhait, ravi"
+mesure,1920,732,0.2180875390768051,"peine, souhaite, but, merveille, quantité, puissance, apporte, mesures"
+interrompit,1840,1248,0.0422542504966259,"poursuivit, introduisit, rompit, avoua, balbutia, répliqua, répéta, rejoignit"
+interrompit,1860,2481,0.0400625132024288,"poursuivit, objecta, avoua, balbutia, introduisit, rompit, interrogea, répéta"
+interrompit,1880,2041,0.0424897521734237,"avoua, poursuivit, objecta, introduisit, rompit, balbutia, articula, interrogea"
+interrompit,1900,792,0.0444502979516983,"avoua, poursuivit, objecta, introduisit, balbutia, interrogea, éteignit, répéta"
+interrompit,1920,644,0.0432191975414752,"avoua, poursuivit, introduisit, balbutia, observait, répéta, interrogea, approuva"
