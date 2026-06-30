@@ -93,5 +93,5 @@ for word in CASE_STUDY_WORDS:
                                   "nearest_centroid_neighbours": neighbours})
 
 neighbour_summary = pd.DataFrame(neighbour_records)
-neighbour_summary.to_csv(DIAGNOSTIC_DIR / "compact_contextual_dispersion_examples_for_thesis.csv",
+neighbour_summary.to_csv(DIAGNOSTIC_DIR / "compact_contextual_dispersion_examples.csv",
                          index=False, encoding="utf-8")
