@@ -1,3 +1,4 @@
+"""
 # 03a — Train SGNS models
 
 This notebook trains one skip-gram with negative sampling model per decade.
