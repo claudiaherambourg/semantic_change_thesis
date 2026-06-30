@@ -1,5 +1,4 @@
-"""07b-camembert_centroids_displacement.ipynb
-
+"""
 # 7b - CamemBERT centroid displacement
 
 Builds one centroid representation per word and decade from the contextual
