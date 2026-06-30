@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """07a-extract_contextual_embeddings.ipynb
 
 # 07a — Extract contextual embeddings
