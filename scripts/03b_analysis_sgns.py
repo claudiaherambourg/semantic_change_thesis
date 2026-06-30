@@ -1,3 +1,4 @@
+"""
 # 03b — Analyse SGNS models
 
 This notebook analyses the SGNS models trained in Notebook 03a.
