@@ -1,0 +1,2 @@
+model,n_rows,n_words,frequency_coefficient,frequency_pvalue
+PPMI_SVD_conformity_mixedlm_min500,13692,2651,-0.7297272889763491,0.0

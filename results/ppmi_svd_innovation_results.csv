@@ -1,0 +1,2 @@
+model,n_rows,n_words,frequency_coefficient,frequency_pvalue,contextual_diversity_coefficient,contextual_diversity_pvalue
+PPMI_SVD_innovation_mixedlm_min500,13692,2651,-1.1047162853927126,0.0,26.58433804120689,2.2830102825053345e-133
