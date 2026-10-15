@@ -141,3 +141,18 @@ for decade, tokens in sorted(decade_corpora.items()):
 
 polysemy_scores = pd.DataFrame(polysemy_rows)
 polysemy_scores.head()
+
+polysemy_scores = polysemy_scores.dropna(subset=["contextual_diversity"]).copy()
+
+polysemy_scores["log_contextual_diversity"] = np.log(polysemy_scores["contextual_diversity"] + EPSILON)
+
+polysemy_scores["log_contextual_diversity_centered"] = (polysemy_scores["log_contextual_diversity"]
+                                                        - polysemy_scores.groupby("decade")["log_contextual_diversity"].transform("median"))
+
+polysemy_scores.to_csv(TABLES_DIR / "polysemy_scores_ppmi_network.csv",index=False,encoding="utf-8")
+
+print("Rows:", len(polysemy_scores))
+print("Unique words:", polysemy_scores["word"].nunique())
+
+polysemy_scores.head()
+
